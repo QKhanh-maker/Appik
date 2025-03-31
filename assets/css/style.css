@@ -695,10 +695,9 @@ footer {
         }
 
             footer .footer-top .bg-color .input-group {
+               width:500px;
                 max-width: 90%;
-                max-width: 25%;
                 margin: auto;
-                border-radius: 15px;
                 background: #fff;
                 border-radius: 40px;
                 padding: 5px;
@@ -715,11 +714,12 @@ footer {
                 footer .footer-top .bg-color .input-group button {
                     color: #fff;
                     border: none;
-                    border-radius: 355px !important;
+                    border-radius: 35px !important;
                     font-weight: 500;
                     background: linear-gradient(135deg, #6271f6 5%, #f9417a 95%);
                     padding-left: 2rem;
                     padding-right: 2rem;
+                    margin-left:1rem;
                 }
 
                     footer .footer-top .bg-color .input-group button:hover {
